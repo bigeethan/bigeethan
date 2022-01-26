@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @bigeethan
+- 👋  Hi, I’m Ethan Friedman aka @bigeethan
 - 👀  I’m interested in coding, politics, and cooking
 - 🌱  I’m currently learning back-development, java, and javascript
 
