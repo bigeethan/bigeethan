@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @bigeethan
-- 👀  I’m interested in coding
+- 👀  I’m interested in coding, politics, and cooking
 - 🌱  I’m currently learning back-development, java, and javascript
 
 <!---
