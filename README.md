@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Ethan Friedman aka @bigeethan
-- 👀  I’m interested in coding, politics, and cooking
+- 👀  I’m interested in coding, gaming, and politics. I also like to hang out with friends.
 - 🌱  I’m currently learning backend development, java, and javascript
 
 <!---
