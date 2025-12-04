@@ -1,6 +1,5 @@
-- 👋  Hi, I’m Ethan Friedman aka @bigeethan
-- 👀  I’m interested in political technology
-- 🌱  I’m currently learning java, javascript, python, R, databases, and machine learning
+- Hi, I’m Ethan Friedman aka @bigeethan
+- I’m interested in backend development, machine learning, and data
 
 <!---
 bigeethan/bigeethan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
